@@ -1,0 +1,78 @@
+ {
+     "status": 1,
+     "data": {
+         "qaHistory": [{
+                 "date": "2/9",
+                 "new": 10,
+                 "inProgress": 20,
+                 "closed": 40,
+                 "overdue": 80
+             },
+             {
+                 "date": "2/10",
+                 "new": 22,
+                 "inProgress": 40,
+                 "closed": 18,
+                 "overdue": 70
+             },
+             {
+                 "date": "2/11",
+                 "new": 22,
+                 "inProgress": 40,
+                 "closed": 60,
+                 "overdue": 28
+             },
+             {
+                 "date": "2/11",
+                 "new": 32,
+                 "inProgress": 50,
+                 "closed": 40,
+                 "overdue": 28
+             },
+             {
+                 "date": "2/12",
+                 "new": 12,
+                 "inProgress": 40,
+                 "closed": 8,
+                 "overdue": 90
+             }
+         ],
+         "overdueQaList": [{
+                 "id": "2019",
+                 "ticket": "Coding UserController a",
+                 "owner": "Wei.Zhang",
+                 "exceptedAnswerDate": "2017/01/20"
+             },
+             {
+                 "id": "2020",
+                 "ticket": "Coding UserController b",
+                 "owner": "Dehua.liu",
+                 "exceptedAnswerDate": "2017/01/21"
+             },
+             {
+                 "id": "2021",
+                 "ticket": "Coding UserController c",
+                 "owner": "Xueyou.zhang",
+                 "exceptedAnswerDate": "2017/01/22"
+             },
+             {
+                 "id": "2069",
+                 "ticket": "Coding UserController jjjjjjjjjjjjjjjjjjj ffffffffffffffffffffffffff feeeeeeeeeeeeee",
+                 "owner": "Wei.Zhang",
+                 "exceptedAnswerDate": "2017/01/15"
+             },
+             {
+                 "id": "2019",
+                 "ticket": "Coding UserController",
+                 "owner": "Wei.Zhang",
+                 "exceptedAnswerDate": "2017/01/21"
+             },
+             {
+                 "id": "2019",
+                 "ticket": "Coding UserController",
+                 "owner": "Wei.Zhang",
+                 "exceptedAnswerDate": "2017/01/21"
+             }
+         ]
+     }
+ }

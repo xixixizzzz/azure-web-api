@@ -1,0 +1,79 @@
+ {
+     "status": 1,
+     "data": {
+         "taskHistory": [{
+                 "date": "2/9",
+                 "onSchedule": 10,
+                 "delay": 20,
+                 "closed": 40,
+                 "pending": 80
+             },
+             {
+                 "date": "2/10",
+                 "onSchedule": 22,
+                 "delay": 40,
+                 "closed": 18,
+                 "pending": 70
+             },
+
+             {
+                 "date": "2/11",
+                 "onSchedule": 22,
+                 "delay": 40,
+                 "closed": 60,
+                 "pending": 28
+             },
+             {
+                 "date": "2/11",
+                 "onSchedule": 32,
+                 "delay": 50,
+                 "closed": 40,
+                 "pending": 28
+             },
+             {
+                 "date": "2/12",
+                 "onSchedule": 12,
+                 "delay": 40,
+                 "closed": 8,
+                 "pending": 90
+             }
+         ],
+         "delayTaskList": [{
+                 "id": "2019",
+                 "ticket": "Coding UserController a cccccccc nnnnnnnnnnnnnnnnnnnnnppp ppppppppppppppppp  hhhhhhhhhhhhh",
+                 "owner": "Wei.Zhang",
+                 "planedEndDate": "2017/01/20"
+             },
+             {
+                 "id": "2020",
+                 "ticket": "Coding UserController b",
+                 "owner": "Dehua.liu",
+                 "planedEndDate": "2017/01/21"
+             },
+             {
+                 "id": "2021",
+                 "ticket": "Coding UserController c",
+                 "owner": "Xueyou.zhang",
+                 "planedEndDate": "2017/01/22"
+             },
+             {
+                 "id": "2069",
+                 "ticket": "Coding UserController",
+                 "owner": "Wei.Zhang",
+                 "planedEndDate": "2017/01/15"
+             },
+             {
+                 "id": "2019",
+                 "ticket": "Coding UserController",
+                 "owner": "Wei.Zhang",
+                 "planedEndDate": "2017/01/21"
+             },
+             {
+                 "id": "2019",
+                 "ticket": "Coding UserController",
+                 "owner": "Wei.Zhang",
+                 "planedEndDate": "2017/01/21"
+             }
+         ]
+     }
+ }
